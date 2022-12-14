@@ -144,7 +144,7 @@ export const WETH = {
     ChainId.METISTESTNET,
     '0x577dDC8c1bb948cdcF123Cd1f453Be80875Ec1F3',
     18,
-    'METIS',
-    'Metis Token'
+    'WMETIS',
+    'Wrapped Metis'
   ),
 }
