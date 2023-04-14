@@ -22,7 +22,8 @@ export declare enum ChainId {
     OASIS = 42262,
     OPTIMISM = 10,
     ETHW = 10001,
-    METISTESTNET = 599
+    METISTESTNET = 599,
+    ZKSYNCTESTNET = 280
 }
 export declare const WETH: {
     1: Token;
@@ -48,4 +49,5 @@ export declare const WETH: {
     42262: Token;
     10: Token;
     599: Token;
+    280: Token;
 };
